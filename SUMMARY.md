@@ -4,3 +4,5 @@
   * [2.2. Working with Unsafe 使用不安全代码](content/2.2. Working with Unsafe 使用不安全代码.md)
 * [3. Data Layout 数据布局](content/3. Data Layout 数据布局.md)
   * [3.1. repr(Rust)](content/3.1. repr(Rust).md)
+  * [3.2. Exotically Sized Types 特殊大小类型](content/3.2. Exotically Sized Types 特殊大小类型.md)
+  * [3.3. Other reprs 其他表现形式](content/3.3. Other reprs 其他表现形式.md)
